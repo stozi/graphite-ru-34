@@ -1,5 +1,5 @@
-#    doas mkdir /usr/local/share/kbd/keymaps and paste gallium.map (this file) there.
-#    specify KEYMAP=/usr/local/share/kbd/keymaps/gallium.map in /etc/vconsole.conf
+#    doas mkdir /usr/local/share/kbd/keymaps and paste galite.map (this file) there.
+#    specify KEYMAP=/usr/local/share/kbd/keymaps/galite.map in /etc/vconsole.conf
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -26,13 +26,13 @@ keycode 12 = endash	emdash
 keycode 16 = b		B	nul	Control_b
 keycode 17 = l		L	nul	Control_l
 keycode 18 = d		D	nul	Control_d
-keycode 19 = c		C	nul	Control_c
-keycode 20 = v		V	nul	Control_v
+keycode 19 = w		W	nul	Control_w
+keycode 20 = z		Z	nul	Control_z
 keycode 21 = j		J	nul	Control_j
-keycode 22 = y		Y	nul	Control_y
+keycode 22 = f		F	nul	Control_f
 keycode 23 = o		O	nul	Control_o
 keycode 24 = u		U	nul	Control_u
-keycode 25 = slash	question	nul	nul	nul		Meta_slash
+keycode 25 = minus	underscore	nul	nul	nul	Meta_minus	Meta_underscore
 
 # Third Row
 keycode 30 = n		N	nul	Control_n
@@ -40,7 +40,7 @@ keycode 31 = r		R	nul	Control_r
 keycode 32 = t		T	nul	Control_t
 keycode 33 = s		S	nul	Control_s
 keycode 34 = g		G	nul	Control_g
-keycode 35 = p		P	nul	Control_p
+keycode 35 = y		Y	nul	Control_y
 keycode 36 = h		H	nul	Control_h
 keycode 37 = a		A	nul	Control_a
 keycode 38 = e		E	nul	Control_e
@@ -55,13 +55,13 @@ keycode 42 = Shift
 keycode 44 = x		X	nul	Control_x
 keycode 45 = q		Q	nul	Control_q
 keycode 46 = m		M	nul	Control_m
-keycode 47 = w		W	nul	Control_w
-keycode 48 = z		Z	nul	Control_z
+keycode 47 = c		C	nul	Control_c
+keycode 48 = v		V	nul	Control_v
 keycode 49 = k		K	nul	Control_k
-keycode 50 = f		F	nul	Control_f
-keycode 51 = apostrophe	quotedbl	nul	nul	nul	Meta_apostrophe
-keycode 52 = minus	underscore	nul	nul	nul	Meta_minus	Meta_underscore
-keycode 53 = period	comma	nul	nul	nul		Meta_period	Meta_comma
+keycode 50 = p		P	nul	Control_p
+keycode 51 = comma slash	nul	nul	nul		Meta_comma Meta_slash
+keycode 52 = period	question	nul	nul	nul		Meta_period	Meta_question
+keycode 53 = apostrophe	quotedbl	nul	nul	nul	Meta_apostrophe
 
 # Fifth Row, left of space bar, and space bar PLUS MY CAPS MOD
 keycode 58 = less            greater
