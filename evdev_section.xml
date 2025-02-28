@@ -6,9 +6,9 @@
 
 <layout>
     <configItem>
-        <name>gallium</name>
-        <shortDescription>gallium</shortDescription>
-        <description>Gallium</description>
+        <name>galite</name>
+        <shortDescription>galite</shortDescription>
+        <description>Galite</description>
         <languageList>
             <iso639Id>eng</iso639Id>
         </languageList>
