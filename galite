@@ -1,11 +1,11 @@
- // sudo cp gallium /usr/share/X11/xkb/symbols/
+ // sudo cp galite /usr/share/X11/xkb/symbols/
 
 default partial
 xkb_symbols "basic" {
 
     include "us(basic)"
 
-    name[Group1] = "Gallium";
+    name[Group1] = "Galite";
 
     key <CAPS> {[ less,      greater   ]};
     key <TLDE> {[ asciitilde, grave    ]};
