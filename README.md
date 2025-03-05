@@ -34,13 +34,13 @@ null layer0/enter  shift/space alt/del
 ```
 Here and in the next layer you'll see some simple but unusual customizations for puncts.
 ```
-b   l   d   w   z     j   f   o   u   -_
+b   l   d   w   z     j   f   o   u   ,/
 й   ц   у   к   е     н   г   ш   щ   з
 
 n   r   t   s   g     y   h   a   e   i
 ф   ы   в   а   п     р   о   л   д   ж
 
-x   q   m   c   v     k   p   ,/  .?  '"
+x   q   m   c   v     k   p   '"  -_  .?  
 я   ч   с   м   и     т   ь   б   ю   .,
 
 layer0 layer3/enter  shift/space alt/bkspc
@@ -53,7 +53,7 @@ n/a ()  <>  lng n/a  n/a com [{  ]}  n/a
 9(  0)  1!  2@  3#   4$  5%  6^  7&  8*
 9(  0)  1!  2"  3№   4;  5%  6:  7?  8*
 
-\|  ~`  :;  skC cmp  n/a the =+  sen –—
+\|  ~`  :;  skC cmp  n/a the =+  –— sen
     ё   э
 
 null layer2/enter  shift/space alt/del
