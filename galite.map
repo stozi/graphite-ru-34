@@ -32,7 +32,7 @@ keycode 21 = j		J	nul	Control_j
 keycode 22 = f		F	nul	Control_f
 keycode 23 = o		O	nul	Control_o
 keycode 24 = u		U	nul	Control_u
-keycode 25 = minus	underscore	nul	nul	nul	Meta_minus	Meta_underscore
+keycode 25 = comma slash	nul	nul	nul		Meta_comma Meta_slash
 
 # Third Row
 keycode 30 = n		N	nul	Control_n
@@ -52,16 +52,16 @@ keycode 41 = asciitilde            grave
 
 # Fourth Row
 keycode 42 = Shift
-keycode 44 = x		X	nul	Control_x
-keycode 45 = q		Q	nul	Control_q
+keycode 44 = q		Q	nul	Control_q
+keycode 45 = x		X	nul	Control_x
 keycode 46 = m		M	nul	Control_m
 keycode 47 = c		C	nul	Control_c
 keycode 48 = v		V	nul	Control_v
 keycode 49 = k		K	nul	Control_k
 keycode 50 = p		P	nul	Control_p
-keycode 51 = comma slash	nul	nul	nul		Meta_comma Meta_slash
-keycode 52 = period	question	nul	nul	nul		Meta_period	Meta_question
-keycode 53 = apostrophe	quotedbl	nul	nul	nul	Meta_apostrophe
+keycode 51 = apostrophe	quotedbl	nul	nul	nul	Meta_apostrophe
+keycode 52 = minus	underscore	nul	nul	nul	Meta_minus	Meta_underscore
+keycode 53 = period	question	nul	nul	nul		Meta_period	Meta_question
 
 # Fifth Row, left of space bar, and space bar PLUS MY CAPS MOD
 keycode 58 = less            greater
