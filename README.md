@@ -1,5 +1,5 @@
 # galite-ru-34
-A writing-focused 34-key ZMK/Linux layout for galite and йцукен with mouse keys.
+A writing-focused 34-key ZMK/Linux layout for [galite](https://www.reddit.com/r/KeyboardLayouts/comments/1iqo9ob/galite_galliumgraphite_hybrid_with_simplified/) and йцукен with mouse keys.
 
 In Linux, set compose to pause, switch lang to lwin.
 Instructions on what to do with the [galite](https://github.com/stozi/galite-ru-34/blob/main/gallium), [evdev_section](https://github.com/stozi/galite-ru-34/blob/main/evdev_section.xml), and optionally (for CLI) [galite.map](https://github.com/stozi/galite-ru-34/blob/main/galite.map) files are in those files. Copy the contents of [my ZMK keymap](https://github.com/stozi/zmk-config/blob/master/config/a_dux.keymap) file to yours in Github. [ZMK mouse keys](https://zmk.dev/docs/keymaps/behaviors/mouse-emulation) require additional setup.
