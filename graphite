@@ -16,7 +16,7 @@ xkb_symbols "basic" {
     key <AD03> {[ d,         D         ]};
     key <AD04> {[ w,         W         ]};
     key <AD05> {[ z,         Z         ]};
-    key <AB06> {[ apostrophe, quotedbl ]};
+    key <AD06> {[ apostrophe, quotedbl ]};
     key <AD07> {[ f,         F         ]};
     key <AD08> {[ o,         O         ]};
     key <AD09> {[ u,         U         ]};
@@ -44,6 +44,6 @@ xkb_symbols "basic" {
     key <AB07> {[ p,         P         ]};
     key <AB08> {[ period,    question  ]};
     key <AB09> {[ minus,    underscore ]};
-    key <AD10> {[ comma,     slash     ]};
+    key <AB10> {[ comma,     slash     ]};
 
 };
